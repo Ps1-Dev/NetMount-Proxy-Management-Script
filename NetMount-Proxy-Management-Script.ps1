@@ -61,7 +61,7 @@ if ($choice -eq "1") {
 } elseif ($choice -eq "H" -or $choice -eq "h") {
     $host.UI.RawUI.WindowTitle = "NetMount Proxy Management Script - Homepage"
     Write-Host "Opening the homepage..."
-    Start-Process "https://github.com/NT-AUTHORITY/NetMount-Proxy-Management-Script"
+    Start-Process "https://github.com/Ps1-Dev/NetMount-Proxy-Management-Script"
     Exit
 } elseif ($choice -eq "A" -or $choice -eq "a") {
     $host.UI.RawUI.WindowTitle = "NetMount Proxy Management Script - About"
