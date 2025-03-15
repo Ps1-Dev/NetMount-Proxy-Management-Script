@@ -1,6 +1,6 @@
 # NetMount-Proxy-Management-Script
  A simple script for NetMount's proxy settings.  
- Needs [Powershell(https://apps.microsoft.com/detail/9mz1snwt0n5d) instead of Windows Powershell.
+ Needs [Powershell](https://apps.microsoft.com/detail/9mz1snwt0n5d) instead of Windows Powershell.
  Check using `pwsh -v`.
 # Run
  Use the powershell command:
